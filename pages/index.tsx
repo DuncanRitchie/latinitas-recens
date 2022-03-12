@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import About from '../components/About'
 import Footer from '../components/Footer'
 import Form from '../components/Form'
 import Record from '../components/Record'
@@ -18,6 +19,7 @@ export default function Home({ isHomepage, query, records, error }) {
         <main className={styles.main}>
           <h1>Latinitas Recens</h1>
           <Form q=''/>
+          <About/>
         </main>
   
         <Footer/>
@@ -37,6 +39,7 @@ export default function Home({ isHomepage, query, records, error }) {
         <Form q={query.q}/>
         <h2>{records.length} results for “{query.q}”</h2>
         {records.map((record: string) => <Record record={record} q={query.q} key={record}/>)}
+        <About/>
       </main>
 
       <Footer/>
