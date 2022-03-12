@@ -269,7 +269,7 @@ archaeologia--ae,f, origo; nl, E L. archaeologia, It. archeologia, An. archaeolo
 archimagirus--i, m, origo; lrl, E L. coquorum ductor; Syn : archicoquus, It. cuoco, An. chef
 archipelagus--i, m, origo; lrl, E L. mare insulis refertum, It. arcipelago, An. archipelago
 archivum--i, n, origo; lrl, E L. tabularium, It. archivio, An. archive
-arcticus--a-um, origo; lrl, E L. ad polum pertinens, It. artico, An. artic
+arcticus--a-um, origo; lrl, E L. ad polum pertinens, It. artico, An. arctic
 arctophobia--ae,f, origo; nl, E L. timor ursi, It. paura dei orsi, An. fear of bears
 area stativa--f, origo; lrl, E L. statio autocinetorum, It. parcheggio, An. parking area
 arenarium--ii, n, origo; lrl, E L. Blaise; catacumbae, f pl., It. catacomba, An. catacomb
@@ -384,7 +384,7 @@ bakelitis--is, f, origo; lrl, E L. idem, It. bachelite, An. resin (synthetic)
 ballatio--onis, f, origo; lrl, E L. chorea, It. ballo, An. dance
 ballipedium--ii, n, origo; lrl, E L. campus ballisticus,, It. balipedio, An. shooting range
 balneae pensiles--arum, ium f,pl, origo; lrl, E L. idem, It. doccia, An. shower
-balneatrix--acis, f, origo; lrl, E L. balneator (m), It. bagnina(o), An. bathing (assitant)
+balneatrix--acis, f, origo; lrl, E L. balneator (m), It. bagnina(o), An. bathing (assistant)
 balneotherapia--ae, f, origo; lrl, E L. curatio bainearia, It. balneoterapia, An. hydrotherapy
 balteum--i,n, origo; lrl, E L. idem, It. cintura di sicurezza, An. saftey belt
 banana--ae, f, origo; lrl, E L. idem, It. banana, An. banana
@@ -411,7 +411,7 @@ bellariolotheca--f, origo; lrl, E L. bellariolorum theca, It. bomboniera, An. bo
 bellator tectus--m, origo; lrl, E L. idem, It. guerrigliero, An. guerilla
 bellum tectum--n, origo; lrl, E L. idem, It. guerriglia, An. guerilla warfare
 bene comede--v., origo; lrl, E L. vel bene comedite, It. buon appetito, An. buon appetito
-benefìciarius--ii, m, origo; lrl, E L. idem, It. donatario, An. benefìciary
+beneficiarius--ii, m, origo; lrl, E L. idem, It. donatario, An. beneficiary
 benzinium--ii, n, origo; lrl, E L. benzinum, It. benzina, An. gas (for car)
 bestiola experimentalis--f, origo; lrl, E L. idem, It. cavia, An. guinea-pig
 bibliopegus--i, m, origo; lrl, E L. idem, It. rilegatore, An. bookbinder
@@ -468,7 +468,7 @@ bracae brevissimae--f. pl., origo; lrl, E L. idem, It. shorts, An. shorts
 brachiale--is, n, origo; lrl, E L. idem, It. bracciale, An. arm rest
 brachycephalus--i, m, origo; lrl, E L. idem, It. brachicefalo, An. brachycephaly
 bradycardia--ae, f, origo; lrl, E L. idem, It. bradicardia, An. bradycardia
-brassica Sabellìca--f, origo; Bacci, E L. idem, It. broccolo, An. broccoli
+brassica Sabellica--f, origo; Bacci, E L. idem, It. broccolo, An. broccoli
 brephotropheum--i, n, origo; lrl, E L. idem, It. brefotrofio, An. foundling hospital
 breviata--ae, f, origo; lrl, E L. subscriptio temporaria, It. parafa, An. initials
 brevio, are--v., origo; lrl, E L. Syn. Contraho, corripio, It. abbreviare, An. abbreviate
@@ -510,7 +510,7 @@ camma--ae, f, origo; lrl, E L. mech., It. camma, An. cam
 camphora--ae, f, origo; lrl, E L. idem, It. canfora, An. camphor
 campus pedeludiarius--m, origo; Egger, E L. idem, It. campo sportivo (dei calciatori), An. soccor field
 canceraticus---a-um, origo; lrl, E L. idem, It. canceroso, An. cancerous
-candela fumifìca--f, origo; Egger, E L. idem, It. candellotto fumogeno, An. smoke bomb
+candela fumifica--f, origo; Egger, E L. idem, It. candellotto fumogeno, An. smoke bomb
 candelula--ae, f, origo; lrl, E L. idem, It. candelloto, An. candle (short)
 canis cubile--n, origo; lrl, E L. idem, It. canile, An. dog-kennel
 canis taurinus--m, origo; Bacci, E L. idem, It. bulldog, An. bulldog
@@ -737,7 +737,7 @@ cosmonauta--ae, m, origo; lrl, E L. idem, It. cosmonauta, An. cosmonaut
 creditum--i, n, origo; Bad., E L. credita; fides, It. credito, An. credit
 cremlinologia--ae, f, origo; lrl, E L. idem, It. cremlnologia, An. kremlinology
 crepita--ae, f, origo; lrl, E L. caligula domestica, It. babbuccia, An. slipper (bedroom)
-criminologia--ae, f, origo; lrl, E L. crimìnum scientia, It. criminologia, An. criminology
+criminologia--ae, f, origo; lrl, E L. criminum scientia, It. criminologia, An. criminology
 crocodilus caimanus--i, m, origo; lrl, E L. idem, It. caimano, An. cayman
 crucigramma--atis, n, origo; Hefner, E L. verba decussata, It. parole incrociate, An. crossword puzzle
 crustulum--i, m, origo; ivl., E L. idem, It. foccacina, An. croissant
@@ -788,7 +788,7 @@ dadaismus--i,m, origo; lrl, E L. idem, It. dadaismo, An. dadaism,
 dadaistes--ae, m, origo; lrl, E L. dadaismi fautor, It. dadaista, An. dadaist
 Daiailama--ae, m, origo; lrl, E L. magister Buddhistarum Tibetanorum, It. dalai-lama, An. Dali-lama
 dalmatica--ae, f, origo; Eccles., E L. idem, It. dalmatica, An. dalmatic
-daltonìcus--a-um, origo; lrl, E L. achromatopticus, It. daltonico, An. colour-blind
+daltonicus--a-um, origo; lrl, E L. achromatopticus, It. daltonico, An. colour-blind
 daltonismus--I, m, origo; lrl, E L. achromatopsis, It. daltonismo, An. daltonism
 Dantianus--a-um, origo; lrl, E L. pertinens ad Dantem Alagherium, It. dantesco, An. Dantean, Dantesque
 Darvinianus--a-um, origo; lrl, E L. pertinens ad doctrinam Darvinii, It. darviniano, An. darwinian
@@ -1507,7 +1507,7 @@ navis refectoria--f, origo; lrl, E L. navibus resarciendis, It. nave officina, A
 navis sideralis--f, origo; lrl, E L. aeronavis cosmica, It. astronave, An. space ship
 navis subaquanea--f, origo; lrl, E L. idem, It. sommergibile, An. submarine
 navis traiectoria--f, origo; lrl, E L. idem, It. nave tragletto, An. ferry
-necessitudìnes--f, pl, origo; lrl, E L. idem, It. relazione umana, An. human relations
+necessitudines--f, pl, origo; lrl, E L. idem, It. relazione umana, An. human relations
 neon--onis, n, origo; lrl, E L. idem, It. neon, An. neon
 neonatalis---e, origo; lrl, E L. idem, It. neonatale, An. neonatal
 neurosis--is, f, origo; lrl, E L. idem, It. neurosi, An. neurosis
@@ -1545,7 +1545,7 @@ odontologia--ae, f, origo; lrl, E L. dentaria disciplina adi.=odontologicus, It.
 oecologia--ae, f, origo; lrl, E L. adi= oecologicus, It. ecologia, An. ecology
 oecologistes--ae, m, origo; lrl, E L. oecologus, It. ecologista, An. ecologist
 nivata potio--f, origo; lrl, E L. idem, It. ghiacciata, An. iced drink
-nodus mobìlis--m, origo; lrl, E L. idem, It. calappio, An. slip knot
+nodus mobilis--m, origo; lrl, E L. idem, It. calappio, An. slip knot
 nomas--adis, m, origo; lrl, E L. idem, It. nomade, An. nomad
 nomismatotheca--ae, f, origo; lrl, E L. nummotheca, It. medagliere, An. metal collection
 nosocomium--ii, n, origo; lrl, E L. idem, It. nosocomio, An. hospital
@@ -1775,8 +1775,8 @@ ptochodochium--ii, n, origo; lrl, E L. idem, It. ospizio dei poveri, An. refuge 
 ptochotropheum--i, n, origo; lrl, E L. idem, It. mendicomio, An. food kitchen
 publici--orum, m pl., origo; lrl, E L. corpus biocolyticum, sedes biocolytica, It. polizia, An. police
 publicum subsidium--n, origo; lrl, E L. idem, It. presalario, An. scholarship
-publìcus nuntius--m, origo; lrl, E L. idem, It. comunicato, An. public notice
-publìcus procurator--m, origo; lrl, E L. idem, It. console, An. consul
+publicus nuntius--m, origo; lrl, E L. idem, It. comunicato, An. public notice
+publicus procurator--m, origo; lrl, E L. idem, It. console, An. consul
 puer explorator--m, origo; lrl, E L. idem, It. boyscout, An. boyscout
 pugil--ilis, m, origo; lrl, E L. idem, It. boxer, An. boxer
 pulmo chalybeius--m, origo; lrl, E L. idem, It. polmone d'acciaio, An. iron lung
@@ -1876,7 +1876,7 @@ satelles artificiosus--itis, m, origo; lrl, E L. idem, It. satelite, An. satelit
 satellites artificiosus--m, origo; lrl, E L. idem, It. satellite, An. satellite
 saxophonista--ae, m, origo; lrl, E L. idem, It. sassofonista, An. saxophonist
 saxophonum--i, n, origo; lrl, E L. idem, It. sassofono, An. saxophone
-scaenicus vestifex--m, origo; lrl, E L. actorum vestitor vel vestifìcus, It. costumista, An. costume person
+scaenicus vestifex--m, origo; lrl, E L. actorum vestitor vel vestificus, It. costumista, An. costume person
 scaenographia--ae, f, origo; lrl, E L. adi.=scaenographicus, It. scenografia, An. scenography
 scaenographicus--i, m, origo; Helfer, E L. libellus pictographicus, It. fumetto, An. comic book
 scalae aeronavis--f, pl., origo; lrl, E L. idem, It. scala aerea, An. fireman's ladder
@@ -2068,7 +2068,7 @@ telepathia--ae, f, origo; lrl, E L. idem, It. telepatia, An. telepathy
 telephoniolus--i, m, origo; ig., E L. telephonicium cellulare, It. telefonino, An. cell phone
 telephonium--ii, n, origo; lrl, E L. adi.=telephonicus, It. telefono, An. telephone
 telescopium--ii, n, origo; lrl, E L. idem, It. cannocchiale, An. binoculars
-televisifìcus trames--m, origo; lrl, E L. idem, It. canale televisivo, An. television station
+televisificus trames--m, origo; lrl, E L. idem, It. canale televisivo, An. television station
 temerator--oris, m, origo; lrl, E L. falsarius e.g. monetae adulterator, It. falsario, An. forger
 tendo---ere, origo; lrl, E L. idem, It. campeggiare, An. camp
 terminale--is, n, origo; Draco, E L. idem, It. terminale s.m., An. terminal
@@ -2091,7 +2091,7 @@ thecula cyprii pulveris--f, origo; lrl, E L. idem, It. portacipria, An. powder c
 theinum--i, n, origo; lrl, E L. idem, It. teina, An. theine
 theobroma--atis, n, origo; lrl, E L. faba Mexicana, It. cacao, An. cocoa
 thermopola--ae, f, origo; lrl, E L. tabernae potoriae minister, It. barista, An. bartender
-thermopolium--ii, n, origo; lrl, E L. caupona, ubi calida venduntur, bìbaria, It. bar, An. bar (coffee,liquor etc.)
+thermopolium--ii, n, origo; lrl, E L. caupona, ubi calida venduntur, bibaria, It. bar, An. bar (coffee,liquor etc.)
 thesaurus indiciorum--i, m, origo; lrl, E L. elementorum certorum thesaurus, It. banca di dati, An. data bank
 Thomismus--i, m, origo; lrl, E L. idem, It. tomismo, An. Thomism
 thorax laneus--m, origo; Svet., E L. idem, It. maglia, An. sweater
@@ -2183,7 +2183,7 @@ vesticina--ae, f, origo; lrl, E L. idem, It. sartoria, An. tailor's shop
 vesticus--i, n, origo; lrl, E L. vestifex, vestica, It. sarto, An. tailor
 vestifica--ae, f, origo; lrl, E L. idem, It. sarta, An. dressmaker
 vestificina--ae, f, origo; lrl, E L. officina vestium, It. sartoria, An. tailor shop
-vestifìcus--i, m, origo; lrl, E L. vestifex, vestitor, It. sarto, An. tailor
+vestificus--i, m, origo; lrl, E L. vestifex, vestitor, It. sarto, An. tailor
 vestis--is, f, origo; lrl, E L. Syn: vestimentum, indumentum., It. abito, vestito, An. suit
 vestis civilis--m, origo; lrl, E L. civile vestimentum, It. borghese, An. civilian clothes
 vestis venatoria--is, f, origo; lrl, E L. idem, It. cacciatora, An. hunting-jacket
