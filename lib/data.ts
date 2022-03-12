@@ -24,7 +24,7 @@ acetonium--ii,n, origo; lrl, E L. idem, It. acetone, An. acetone
 achne--es, f, origo; lrl, E L. palea, gluma, It. acne, An. acne, pimple
 acholia--ae, f, origo; lrl, E L. bilis defectio, It. acolia, An. acholia, bile deficiency
 achromasia--ae, f, origo; lrl, E L. sine colore, achromaticus, a, um., It. acrornasia, An. colorless
-aciditas--atis, f, origo; nl, E L. acor, It. acidita', An. acidity
+aciditas--atis, f, origo; nl, E L. acor, It. acidità, An. acidity
 acidum--i,n., origo; lrl, E L. idem, It. acido, An. acid
 acidum phaenicum--i, n, origo; lrl, E L. idem, It. fenolo, An. phenol
 acinesia--ae, f, origo; lrl, E L. acinesis, is, It. acinesia, An. akenesia (Med.), moto-paralysis
@@ -36,7 +36,7 @@ acromium--ii,n, origo; lrl, E L. umeri pars, It. acromio (anat.), An. apophesis 
 acrostichis--idis, f., origo; lrl, E L. idem, It. acrostico, An. acrostic
 acta--ae, f, origo; lc., E L. idem, It. spiaggia, An. beach
 actualis--is-e, adi., origo; nl, E L. vulgaris, usitatus, It. corrente, odierno, An. current, topical
-actuositas--atis, f, origo; nl, E L. syn;agilitas,mobilitas, It. attivita', An. activity
+actuositas--atis, f, origo; nl, E L. syn;agilitas,mobilitas, It. attività, An. activity
 acumetrum--i, n, origo; lrl, E L. instrumenti genus, It. acumetro, An. instrument (for hearing test)
 acupunctura--ae,f, origo; lrl, E L. idem, It. agopuntura, An. acupuncture
 acusma--atis, n, origo; lrl, E L. auditio, It. acusma, An. hearing
@@ -614,7 +614,7 @@ cervisiaria taberna--ae, f, origo; lrl, E L. idem, It. birreria, An. beer-shop,p
 cervisiarius--ii, m, origo; lrl, E L. cervisiae confector, It. birraio, An. beer maker
 cessibilis---e, origo; lrl, E L. idem, It. cedibile, An. transferable (funds)
 chalcographia--ae, f, origo; lrl, E L. idem, It. calcografia, An. engraving
-chalcotypta--ae, f, origo; lrl, E L. idem, It. clichè, An. clichè
+chalcotypta--ae, f, origo; lrl, E L. idem, It. cliché, An. cliché
 chamulcus automatarius--m, origo; lrl, E L. idem, It. bulldozer, An. bulldozer
 characterologia--ae, f, origo; lrl, E L. idem, It. caratterologia, An. characterology
 charta bibula--f, origo; lrl, E L. idem, It. carta assorbente, An. tissue paper
@@ -797,7 +797,7 @@ data--orum,n, origo; Draco, E L. informationes, It. dati, An. data
 datarum ordinatrum--i,n, origo; Draco, E L. idem, It. base dati, An. database
 dealbatio--onis, f, origo; lrl, E L. dealbandi ratio, It. candeggio, An. bleaching
 decagramma--atis, n, origo; lrl, E L. idem, It. decagramma, An. decagram
-decaIogus--i, m, origo; lrl, E L. idem, It. decalogo, An. decalogue
+decalogus--i, m, origo; lrl, E L. idem, It. decalogo, An. decalogue
 decalitrum--i, n, origo; lrl, E L. idem, It. decalitro, An. decaliter
 delecti iudices--m pl, origo; lrl, E L. idem, It. giuria, An. jury
 decametrum--i, n, origo; lrl, E L. idem, It. decametro, An. decameter
@@ -824,7 +824,7 @@ diaeteticus---a-um, origo; lrl, E L. de diaetetica, It. dietetico, An. dietetic
 diametrum--i, n, origo; lrl, E L. idem, It. calibro, An. calibre
 dichotomia--ae, f, origo; lrl, E L. idem, It. dicotomia, An. dichotomy
 didascalia--ae, f, origo; lrl, E L. explicatio, It. didascalia, An. footnote
-digitaIis--is-e adi., origo; Draco, E L. idem, It. digitale, An. digital
+digitalis--is-e adi., origo; Draco, E L. idem, It. digitale, An. digital
 digitalis---e, origo; lrl, E L. idem, It. digitale, An. digital
 dihedrum--I, n, origo; lrl, E L. idem, It. diedro, An. dihedron
 dihodus--i, m, origo; lrl, E L. idem, It. diodo, An. diode
@@ -897,7 +897,7 @@ eideticus--a-um, origo; lrl, E L. cognitionlis, It. eidetico, An. eidetic
 Einsteinianus--a-um, origo; lrl, E L. idem, It. einsteiniano, An. Einsteinian
 elastica--vis, f, origo; lrl, E L. flexibilitas, adi.=elasticus, It. elasticita', An. elasticity
 elector--oris, m, origo; lrl, E L. idem, It. electore, An. elector, voter
-electrica stimulatio--f, origo; lrl, E L. zinci inductio, vivificatio, onís, f, It. galvanizzazione, An. galvanization
+electrica stimulatio--f, origo; lrl, E L. zinci inductio, vivificatio, onis, f, It. galvanizzazione, An. galvanization
 electricista--ae, m, origo; lrl, E L. artifex electridis, It. elettricista', An. electrician
 electricus--a-um, origo; lrl, E L. pertinens ad genus vis, It. elettrico, An. electric
 electris--idis, f, origo; lrl, E L. genus vis, It. elettricita', An. electricity
@@ -1041,7 +1041,7 @@ gametogenesis--is, f, origo; lrl, E L. idem, It. gametogenesi, An. gametogenesis
 gangraena--ae, f, origo; lrl, E L. ad.=gangraenosus, It. cancrena, An. gangrene
 gardenia--ae, f, origo; lrl, E L. idem, It. gardenia, An. gardenia (bot.)
 gasarius--ii, m, origo; lrl, E L. faber gasarius ; ; gasii domestici distributor, It. gassista, An. gas-man, gas fitter
-gasioleum--i, n, origo; lrl, E L. gasiuni oleosum, gasii oIeique mixtura, It. gasolio, An. diesel fuel, heating oil
+gasioleum--i, n, origo; lrl, E L. gasiuni oleosum, gasii oleique mixtura, It. gasolio, An. diesel fuel, heating oil
 gasiometrum--i, n, origo; lrl, E L. vaporibus temperandis vas, It. gassometro, An. tank (distribution)
 gasiosa potio--f, origo; lrl, E L. carbonica potio; aqua effervescens (Bacci), It. gassosa, An. soda water
 gasiosus--a-um, origo; lrl, E L. aeriformis, vaporosus (Badellino), It. gassoso, An. gaseous, gassy
@@ -1196,7 +1196,7 @@ hydrofricatio--onis, f, origo; lrl, E L. hydrotractatio, It. idromassaggio, An. 
 hydrofugus--a-um, origo; lrl, E L. hydroexpulsorius, It. idrofugo, An. waterproof
 hydrogenum--i, n, origo; lrl, E L. hydrogenium, It. idrogeno, An. hydrogen
 hydrogeologia--ae, f, origo; lrl, E L. aquarum naturae doctrina, It. idrogeologia, An. hydro-geology
-hydrographia--ae, f, origo; lrl, E L. aquarum descriptio ; res hydrologicae, f p!., It. idrognafia, An. hydrography
+hydrographia--ae, f, origo; lrl, E L. aquarum descriptio ; res hydrologicae, f pl., It. idrognafia, An. hydrography
 hypsometrum--i,n, origo; lrl, E L. altimetrum, It. altimetro, An. altimeter
 iaguara--ae, f, origo; lrl, E L. felis onca, It. giaguaro, An. jaguar
 iassiacus--i, m, origo; lrl, E L. iazensis musicus, It. jazzista, An. jazzist
@@ -1462,8 +1462,8 @@ morphema--atos, n, origo; lrl, E L. idem, It. morfema, An. morpheme
 morphinum--i, n, origo; lrl, E L. idem, It. morfina, An. morphine
 ministra aegrorum--f, origo; lrl, E L. idem, It. infermiera, An. nurse
 ministra cauponaria--f, origo; lrl, E L. theo.= kellnerin, It. chellerina, An. bar maid
-minutuIus circuitus--m, origo; lrl, E L. circuitus integratus, It. microcircuito, An. micro circuit
-missiIe--is, n, origo; lrl, E L. idem, It. missile, An. missile
+minutulus circuitus--m, origo; lrl, E L. circuitus integratus, It. microcircuito, An. micro circuit
+missile--is, n, origo; lrl, E L. idem, It. missile, An. missile
 missilia--ium, n, origo; Bacci, E L. idem, It. mitraglia, An. machinegun fire
 mitigatorium--ii, n, origo; lrl, E L. medicamentum mitigatorium, It. antispasmodico, An. antispasmodic
 moderator cinematographicus--m, origo; lrl, E L. idem, It. regista, An. director
@@ -1635,7 +1635,7 @@ paradigma--atis, n, origo; lrl, E L. exemplar, It. paradigma, An. paradigm
 paradisiacus---a-um, origo; lrl, E L. caelestis, It. paradisiaco, An. heavenly
 paradoxon--i, n, origo; lrl, E L. idem, It. paradosso, An. paradox
 paramedicus--i, m, origo; ig., E L. idem, It. paramedico, An. paramedic
-pars ex centum--f, origo; lrl, E L. e.g.=quinquagesima pars ex centum;vel 50%, It. per cento, An. percent
+pars ex centum--f, origo; lrl, E L. e.g.=quinquagesima pars ex centum; vel 50%, It. per cento, An. percent
 pasta dentaria--f, origo; lrl, E L. idem, It. pasta dentifricia, An. toothpast
 pasta tubulata--f, origo; Bacci, E L. idem, It. maccherone, An. maccherone
 pasta vermiculata--f, origo; lrl, E L. lrl, It. spaghetto, An. spaghetti (long)
@@ -1818,7 +1818,7 @@ refrigeratorius---a-um, origo; lrl, E L. idem, It. refrigerante, An. cooling
 refrigero--are, origo; lrl, E L. idem, It. raffreddare, An. refrigerate
 regesta--arum, n, origo; lrl, E L. idem, It. regesto, An. register
 regestrum--i, n, origo; Draco, E L. idem, It. register (parte del processore, An. register
-reIigo--are, origo; lrl, E L. iterum conecto, It. riagganciare, An. hang-up (tel.)
+religo--are, origo; lrl, E L. iterum conecto, It. riagganciare, An. hang-up (tel.)
 relatio televisifica--f, origo; lrl, E L. idem, It. telecronaca, An. television chronicle
 relativitas--atis, f, origo; Egger, E L. idem, It. relatività, An. relativity
 relator--oris,m, origo; Egger, E L. idem, It. giornalist, An. reporter
@@ -2158,21 +2158,6 @@ vasculum cinerarium--n, origo; lrl, E L. idem, It. portacenere, An. ashtray
 vaselinum--i, n, origo; lrl, E L. idem, It. vasellina, An. vaseline
 vattometrum--i, n, origo; lrl, E L. idem, It. wattometro, An. watt-meter
 vectis--is, m, origo; lrl, E L. machina levans, It. martinetto, An. jack
-vis magnetifca--f, origo; Egger, E L. idem, It. magnetismo, An.
-vischium--i, n, origo; Helfer, E L. idem, It. whisky, An. whisky
-vischium Scoticum--n, origo; lrl, E L. idem, It. wiskey scozzese, An. scotch wiskey
-visitatiuncula--ar, f, origo; lrl, E L. brevis salutatio, It. capatina, An. brief visit (call)
-vitalismus--i, m, origo; lrl, E L. phil., It. vitalismo, An. vitalism
-vitaminum--i, n, origo; lrl, E L. idem, It. vitamina, An. vitamin
-vitra ocularia--n, pl, origo; lrl, E L. idem, It. occhiali, An. eye-glasses
-vitrum anterius--n, origo; lrl, E L. idem, It. parabrezza, An. windshield
-Voltometrum--i, n, origo; lrl, E L. idem, It. voltametro, An. voltameter
-vomitorium ignium--ii, n, origo; lrl, E L. instrumentum ignes evomens, It. lanciafiamine, An. flame thrower
-vuduismus--i, m, origo; lrl, E L. idem, It. vuduismo, An. voodooism
-vuduista--ae, m, origo; lrl, E L. idem, It. vuduista, An. voodooist
-vuduorum ritus--m pl., origo; lrl, E L. idem, It. vudu, An. voodoo
-vulcanologia--ae, f, origo; lrl, E L. adi.=vulcanologicus, It. vulcanologia, An. vulcanology
-vulcanologus--i, m, origo; lrl, E L. idem, It. vulcanologo, An. vulcanologist
 velificatio aerea--f, origo; lrl, E L. idem, It. volovelismo, An. gliding
 venatio Africana--f, origo; lrl, E L. idem, It. safari, An. safari
 venditor clandestinus--m, origo; lrl, E L. praecipue rerum illicitarum, It. spacciatore, An. pusher
@@ -2192,7 +2177,7 @@ via interclusa--f, origo; lrl, E L. idem, It. vicolo cieco, An. blind alley magn
 vicarius--i, m, origo; lrl, E L. subdoctor, It. supplente, An. substitute (teacher)
 vigiles tecti--m, origo; lrl, E L. idem, It. polizia segreta, An. secret police
 villa rustica--f, origo; lrl, E L. idem, It. cascina, An. farm
-villùla--ae, f, origo; lrl, E L. idem, It. cottage, An. cottage
+villula--ae, f, origo; lrl, E L. idem, It. cottage, An. cottage
 vinum Campanese--n, origo; lrl, E L. idem, It. sciampagna, An. champagne
 vinum Garumnicum--i, n, origo; lrl, E L. idem, It. merlot, An. merlot
 vinum roseum--n, origo; lrl, E L. idem, It. rosatello, An. rose (wine)
@@ -2204,6 +2189,21 @@ virosis--is, f, origo; lrl, E L. morbus viro effectus, It. virosi, An. virosis
 virtualis---e, origo; lrl, E L. idem, It. virtuale, An. virtual
 virus--i, n, origo; lrl, E L. idem, It. virus, An. virus
 vis creatrix--f, origo; lrl, E L. idem, It. creatività, An. creativity
+vis magnetica--f, origo; Egger, E L. idem, It. magnetismo, An. magnetism
+vischium--i, n, origo; Helfer, E L. idem, It. whisky, An. whisky
+vischium Scoticum--n, origo; lrl, E L. idem, It. wiskey scozzese, An. scotch wiskey
+visitatiuncula--ar, f, origo; lrl, E L. brevis salutatio, It. capatina, An. brief visit (call)
+vitalismus--i, m, origo; lrl, E L. phil., It. vitalismo, An. vitalism
+vitaminum--i, n, origo; lrl, E L. idem, It. vitamina, An. vitamin
+vitra ocularia--n, pl, origo; lrl, E L. idem, It. occhiali, An. eye-glasses
+vitrum anterius--n, origo; lrl, E L. idem, It. parabrezza, An. windshield
+Voltometrum--i, n, origo; lrl, E L. idem, It. voltametro, An. voltameter
+vomitorium ignium--ii, n, origo; lrl, E L. instrumentum ignes evomens, It. lanciafiamine, An. flame thrower
+vuduismus--i, m, origo; lrl, E L. idem, It. vuduismo, An. voodooism
+vuduista--ae, m, origo; lrl, E L. idem, It. vuduista, An. voodooist
+vuduorum ritus--m pl., origo; lrl, E L. idem, It. vudu, An. voodoo
+vulcanologia--ae, f, origo; lrl, E L. adi.=vulcanologicus, It. vulcanologia, An. vulcanology
+vulcanologus--i, m, origo; lrl, E L. idem, It. vulcanologo, An. vulcanologist
 vulcanus--i, m, origo; lrl, E L. mons ignivomus, It. vulcano, An. vulcano
 xenodochium--ii, n, origo; lrl, E L. idem, It. albergo, An. hotel
 xenophobia--ae, f, origo; lrl, E L. exterarum gentium odium, It. xenofobia, An. xenophobia
