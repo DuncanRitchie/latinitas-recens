@@ -2229,8 +2229,9 @@ export const getRecords = (search: string): { error: string, records: string[] }
             records: []
         };
     }
+    const lowercaseSearch = search.toLowerCase();
     return {
         error: null,
-        records: latinitasRecensLines.filter(line => line.includes(search))
+        records: latinitasRecensLines.filter(line => line.toLowerCase().includes(lowercaseSearch))
     };
 }
