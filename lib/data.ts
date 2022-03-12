@@ -191,7 +191,6 @@ anhaemia--ae, f, origo; lrl, E L. idem, It. anemia, An. anaemia
 anhodus vel anhodos--i, m, i,f, origo; lrl, E L. adi.=anhodicus, It. anodo, An. anode (elect.)
 anisocycla--orum,n, origo; lrl, E L. de autocinetis, It. differenziale, An. transmission
 anomia--ae, f, origo; lrl, E L. absentia legis, It. anomia, An. anomy
-PAGE 8 - Kindly provided by Hubert Mirabel.
 anoscopicum--i, n, origo; lrl, E L. speculum retroscopicum, (Hefner), It. retrovisore, An. rearview mirror
 ansa pedalis--f, origo; lrl, E L. vectis birotalis, It. pedivella, An. pedal crank
 antemna--ae, f, origo; lrl, E L. idem, It. antenna, An. antenna
@@ -219,7 +218,6 @@ antimateria--ae, f, origo; lrl, E L. idem, It. antimateria, An. anti-matter
 antineutron--onis, n, origo; lrl, E L. idem, It. antineutrone, An. anti-neutron
 antiproton--is, n, origo; lrl, E L. idem, It. antiprotone, An. anti-proton
 antipyresis--is, f, origo; lrl, E L. idem, adi=antipyreticus, It. antipiresi, An. antipyrine
-PAGE 8 - Kindly provided by Hubert Mirabel.
 antipyreticus--a-um, origo; lrl, E L. febrim sedans, It. antipiretico, An. antipyretic, preventing fever
 antisemites--ae, m, origo; lrl, E L. idem, adi=antisemiticus, It. antisemita, An. antisemite
 antisemitismus--i,m, origo; lrl, E L. Semitarum odium, It. antisemitismo, An. anti-Semitism
