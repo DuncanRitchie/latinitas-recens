@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Footer from '../components/Footer'
 import { getRecords } from '../lib/getRecords'
 import styles from '../styles/Home.module.css'
 
@@ -15,8 +16,7 @@ export default function Home({ isHomepage, query, records, error }) {
         <main className={styles.main}>
         </main>
   
-        <footer className={styles.footer}>
-        </footer>
+        <Footer/>
       </div>
     )
   }
@@ -32,8 +32,7 @@ export default function Home({ isHomepage, query, records, error }) {
         {records.map(record => <p key={record}>{record}</p>)}
       </main>
 
-      <footer className={styles.footer}>
-      </footer>
+      <Footer/>
     </div>
   )
 }
