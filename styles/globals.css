@@ -1,4 +1,8 @@
-html,
+@import 'https://www.duncanritchie.co.uk/css/main.css';
+@import 'https://www.duncanritchie.co.uk/velut-json-generator/main.css';
+
+
+/* html,
 body {
   padding: 0;
   margin: 0;
@@ -13,4 +17,4 @@ a {
 
 * {
   box-sizing: border-box;
-}
+} */
