@@ -1,34 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Latinitas Recens
+https://latinitas-recens.netlify.app/
 
-## Getting Started
+## About
+Latinitas Recens is a lexicon of Neo-Latin (New Latin) vocabulary compiled by a mysterius scholar named Florus, with translations in Italian and English. It has been preserved on the [Wayback Machine](http://web.archive.org/web/20080415072407/http://users.adelphia.net/~florusc/latine/search.html) and incorporated into [Numen](https://latinlexicon.org/latinitas_recens_latine.php) (which makes it a lot more useful), but I figured there would be no harm in my hosting it myself as well.
 
-First, run the development server:
+Aside from removing line-breaks and correcting some typos, I have kept the 2217 data records as they are in Florus’ version. For explanations of the abbreviations in the lexicon, see the Numen link.
 
+I came across Latinitas Recens while compiling my own Latin lexicon, [velut](https://github.com/DuncanRitchie/velut). My dictionary covers all eras of Latin (except perhaps the earliest Latin), but is very incomplete. I’m continuing to add to it, but slowly and with a bias towards the classical period.
+
+Latinitas Recens will remain a better resource than velut if you’re wanting a lot more New Latin words and phrases (obviously), as well as dictionary citations and Italian translations.
+
+## Code
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The site is all server-side–rendered, [hosted on Netlify](https://www.duncanritchie.co.uk/latinitas-recens/).
+
+To clone this repo and run a development server at [http://localhost:3000](http://localhost:3000), the commands are:
 ```bash
+git clone https://github.com/DuncanRitchie/latinitas-recens
+cd latinitas-recens
+npm i
 npm run dev
-# or
-yarn dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
