@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Footer from '../components/Footer'
+import Form from '../components/Form'
 import { getRecords } from '../lib/getRecords'
 import styles from '../styles/Home.module.css'
 
@@ -14,6 +15,7 @@ export default function Home({ isHomepage, query, records, error }) {
         </Head>
   
         <main className={styles.main}>
+          <Form q=''/>
         </main>
   
         <Footer/>
@@ -29,6 +31,7 @@ export default function Home({ isHomepage, query, records, error }) {
       </Head>
 
       <main className={styles.main}>
+        <Form q={query.q}/>
         {records.map(record => <p key={record}>{record}</p>)}
       </main>
 
