@@ -7,6 +7,9 @@ export default function Footer() {
                 </a>
             </li>
             <li>
+                Data copied from <a href='http://web.archive.org/web/20080415072407/http://users.adelphia.net/~florusc/latine/search.html' title='Latinitas Recens, archived'>Florus’ Latinitas Recens</a> via <a href='https://latinlexicon.org/latinitas_recens_latine.php'>LatinLexicon.org</a>
+            </li>
+            <li>
                 <a href='https://www.github.com/DuncanRitchie/latinitas-recens/'>
                     See the code
                 </a>
