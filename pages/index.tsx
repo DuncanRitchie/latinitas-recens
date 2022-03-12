@@ -34,6 +34,7 @@ export default function Home({ isHomepage, query, records, error }) {
       <main className={styles.main}>
         <h1>Latinitas Recens</h1>
         <Form q={query.q}/>
+        <h2>{records.length} results for “{query.q}”</h2>
         {records.map(record => <p key={record}>{record}</p>)}
       </main>
 

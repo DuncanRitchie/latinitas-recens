@@ -1,6 +1,28 @@
 @import 'https://www.duncanritchie.co.uk/css/main.css';
 @import 'https://www.duncanritchie.co.uk/velut-json-generator/main.css';
 
+#__next {
+  width: 100%;
+}
+
+main {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form {
+  display: flex;
+}
+
+input {
+  font-size: inherit;
+  font-family: "Monaco", "Consolas", monospace;
+  width: 100%;
+}
+
+label input {
+  margin-top: 0.25em;
+}
 
 /* html,
 body {
