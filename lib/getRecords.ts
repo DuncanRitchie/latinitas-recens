@@ -500,8 +500,8 @@ calceamenta cummea--f, origo; Bacci, E L. calcei indumentum (Helfer), It. sopras
 calceamentarium--ii, n, origo; lrl, E L. inductorium, It. calzatoio, An.
 calchaemia--ae, f, origo; lrl, E L. idem, It. calcemia, An. calcinosis
 caleidoscopium--i, n, origo; lrl, E L. idem, It. caleidoscopio, An. kaleidoscope
-calligraphia--ae, f, origo; lrl, E L. idem, It. calligrafia, An. Calligraphy
-calomelanum--i, n, origo; lrl, E L. idem, It. calomelano, An. Calomel
+calligraphia--ae, f, origo; lrl, E L. idem, It. calligrafia, An. alligraphy
+calomelanum--i, n, origo; lrl, E L. idem, It. calomelano, An. calomel
 calorimetria--ae,f, origo; lrl, E L. caloris metiendi ratio, It. calorimetria, An. calorimetry
 calorimetrum--i, n, origo; lrl, E L. caloris index, adi.=calorimetricus, It. calorimetro, An. calorimeter
 calorium--ii, n, origo; ig., E L. caloris mensura, phs., It. caloria, An. calorie
@@ -1360,7 +1360,7 @@ loculamentum--i, n, origo; lrl, E L. idem, It. scaffale, An. rack
 loculus (1)--i, m, origo; lrl, E L. cellula ; areola ; loculamentum, It. casella, An. pigeon-hole
 loculus (2)--i, m, origo; lrl, E L. idem, It. cassetto, An. drawer
 ludus basipilae--i, m, origo; lrl, E L. idem, It. baseball, An. baseball
-ludus canistri--m, origo; ig., E L. Iudus pilae et canistri, It. pallacanestro, An. basketball
+ludus canistri--m, origo; ig., E L. ludus pilae et canistri, It. pallacanestro, An. basketball
 ludus follis ovati--m, origo; lrl, E L. idem, It. rugby, An. rugby
 ludus pilae mensalis--m, origo; lrl, E L. idem, It. ping-pong, An. ping-pong
 lusor latrunculorum--m, origo; lrl, E L. idem, It. scacchista, An. chess-player
