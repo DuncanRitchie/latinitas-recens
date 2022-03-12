@@ -1442,7 +1442,7 @@ melodrama--atis, n, origo; lrl, E L. fabula melica, It. melodramma, An. opera
 memoria--ae, f, origo; Draco, E L. idem, It. memoria, An. memory
 memoriale--is, n, origo; lrl, E L. idem, It. souvenir, An. souvenir
 memorialis--is, m, origo; lrl, E L. libellus manualis, m;, It. prontuario, An. handbook
-mendun--i,n, origo; Draco, E L. cimex computatorium, It. cimice (computer), An. bug
+mendum--i,n, origo; Draco, E L. cimex computatorium, It. cimice (computer), An. bug
 meniscus---a-um, origo; lrl, E L. lunula, It. menisco, An. meniscus
 mercatura clandestina--f, origo; lrl, E L. annona excandefacta (Bacci), It. mercato nero, An. black market
 meritoria--ae, f, origo; lrl, E L. raeda publica, It. taxi, An. cab
