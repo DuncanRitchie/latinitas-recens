@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Footer from '../components/Footer'
 import Form from '../components/Form'
+import Record from '../components/Record'
 import { getRecords } from '../lib/getRecords'
 import styles from '../styles/Home.module.css'
 
@@ -35,7 +36,7 @@ export default function Home({ isHomepage, query, records, error }) {
         <h1>Latinitas Recens</h1>
         <Form q={query.q}/>
         <h2>{records.length} results for “{query.q}”</h2>
-        {records.map(record => <p key={record}>{record}</p>)}
+        {records.map((record: string) => <Record record={record} q={query.q} key={record}/>)}
       </main>
 
       <Footer/>
