@@ -46,7 +46,7 @@ export default function Home({ isHomepage, query, records, error }) {
   )
 }
 
-export async function getServerSideProps({ query, res }) {
+export async function getServerSideProps({ query, res, resolvedUrl }) {
   if (
     query.q
   ) {
@@ -64,7 +64,7 @@ export async function getServerSideProps({ query, res }) {
   }
   else {
     // Make /?q= redirect to / because it’s tidier
-    if (query.q === "") {
+    if (resolvedUrl === "/?q=") {
       res.writeHead(301, { Location: '/' });
       res.end()
     }
