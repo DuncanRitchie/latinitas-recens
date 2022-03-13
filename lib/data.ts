@@ -893,14 +893,14 @@ editor--oris, m, origo; lrl, E L. idem, It. editore, An. editor
 editoria--ae, f, origo; lrl, E L. ars editoria, It. editoria, An. publishing trade
 editoriurrt--i, n, origo; Draco, E L. programma editorium, It. elaborazione di testi, wordpro, An. wordprocessor
 effervescens--entis, origo; lrl, E L. fervens (Badellino), It. effervescente, An. effervescent
-eideticus--a-um, origo; lrl, E L. cognitionlis, It. eidetico, An. eidetic
+eideticus--a-um, origo; lrl, E L. cognitionalis, It. eidetico, An. eidetic
 Einsteinianus--a-um, origo; lrl, E L. idem, It. einsteiniano, An. Einsteinian
-elastica--vis, f, origo; lrl, E L. flexibilitas, adi.=elasticus, It. elasticita', An. elasticity
+elastica--vis, f, origo; lrl, E L. flexibilitas, adi.=elasticus, It. elasticità, An. elasticity
 elector--oris, m, origo; lrl, E L. idem, It. electore, An. elector, voter
 electrica stimulatio--f, origo; lrl, E L. zinci inductio, vivificatio, onis, f, It. galvanizzazione, An. galvanization
-electricista--ae, m, origo; lrl, E L. artifex electridis, It. elettricista', An. electrician
+electricista--ae, m, origo; lrl, E L. artifex electridis, It. elettricistà, An. electrician
 electricus--a-um, origo; lrl, E L. pertinens ad genus vis, It. elettrico, An. electric
-electris--idis, f, origo; lrl, E L. genus vis, It. elettricita', An. electricity
+electris--idis, f, origo; lrl, E L. genus vis, It. elettricità, An. electricity
 electrobiologia--ae, f, origo; lrl, E L. idem, It. elettrobiologia, An. electrobiology
 electrocardiograhia--ae, f, origo; lrl, E L. idem, It. elettrocardiografia, An. electrocardiograph
 electrocardiogramma--atis, n, origo; lrl, E L. idem, It. elettrocardiogramma, An. electrocardiogram
@@ -1837,7 +1837,7 @@ rationum cognitor,--m, origo; lrl, E L. corrector, It. revisore dei conti, An. a
 reactorium--ii, n, origo; Egger, E L. eg.=reactorium nucleare, It. reattore, An. reactor
 realis---e, origo; lrl, E L. idem, It. reale, An. real
 realismus--i, m, origo; lma., E L. Phil., It. realismo, An. realism
-realitas--atis, f, origo; lrl, E L. veritas, exsistentia, praesentia, It. effettivita', An. reality
+realitas--atis, f, origo; lrl, E L. veritas, exsistentia, praesentia, It. effettività, An. reality
 receptaculum--i, n, origo; lrl, E L. magnum repositorium, It. capannone, An. barn, hanger
 receptaculum loricatum--n, origo; lrl, E L. cella loricata, It. bunker, An. bunker
 reducta--orum, n pl., origo; lrl, E L. idem, It. background, An. background
@@ -2127,7 +2127,7 @@ ufologia--ae, f, origo; lrl, E L. doctrina de rebus inexplicatis volantibus, It.
 umbella descensoria--f, origo; lrl, E L. idem, It. paracadute, An. parachute
 umbraculum lampadis--i,n, origo; Irl, E L. idem, It. Paralume, abat-jour, An. lamp shade
 uniconsiliaris---e, origo; lrl, E L. monoconsiliaris, It. unicamerale, An. unicameral
-universalitas--atis, f, origo; lrl, E L. idem, It. ecumenicita', An. ecumenicity
+universalitas--atis, f, origo; lrl, E L. idem, It. ecumenicità, An. ecumenicity
 univocus--a-um, origo; lc, E L. idem, It. univoco, An. univocal
 tormentum bellicum--n, origo; lrl, E L. idem, It. cannone, An. cannon
 trahea--ae, f, origo; lrl, E L. idem, It. slitta, An. sled
