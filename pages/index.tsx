@@ -66,7 +66,6 @@ export async function getServerSideProps({ query, res, resolvedUrl }) {
     // Make /?q= redirect to / because it’s tidier
     if (resolvedUrl === "/?q=") {
       res.writeHead(301, { Location: '/' });
-      res.end()
     }
     return { props: {
       isHomepage: true,
