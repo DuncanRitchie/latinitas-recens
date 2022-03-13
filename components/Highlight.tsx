@@ -1,5 +1,8 @@
+import { Fragment } from "react";
+
 // Returns JSX for the `full` text with the `highlight` text in <mark> elements.
 // Eg, {full: "Fulmarus glacialis", highlight: "fulmar"} => <><mark>Fulmar</mark>us glacialis</>
+
 // Adapted from https://thewebdev.info/2021/11/13/how-to-highlight-text-using-react/
 export default function Highlight(props: {full: string, highlight: string}) {
     const {full, highlight} = props;
@@ -10,7 +13,7 @@ export default function Highlight(props: {full: string, highlight: string}) {
             return regex.test(part) ? (
               <mark key={i}>{part}</mark>
             ) : (
-              <span key={i}>{part}</span>
+              <Fragment key={i}>{part}</Fragment>
             );
           })}
     </>)

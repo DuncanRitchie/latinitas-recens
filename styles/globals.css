@@ -24,6 +24,10 @@ label input {
   margin-top: 0.25em;
 }
 
+dfn {
+  font-style: normal;
+}
+
 mark {
   background-image: linear-gradient(
     var(--colour1) -25%,
