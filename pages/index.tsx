@@ -5,7 +5,7 @@ import Form from '../components/Form'
 import Record from '../components/Record'
 import { getRecords } from '../lib/getRecords'
 
-export default function Home({ isHomepage, query, records, error }) {
+export default function Home({ isHomepage, q, records, error }) {
   if (isHomepage) {
     return (
       <div>
@@ -28,16 +28,16 @@ export default function Home({ isHomepage, query, records, error }) {
   return (
     <div>
       <Head>
-        <title>Latinitas Recens — Records matching “{query.q}”</title>
-        <meta name="description" content={`Results for ${query.q} in Florus’s Neo-Latin dictionary Latinitas Recens`} />
+        <title>Latinitas Recens — Records matching “{q}”</title>
+        <meta name="description" content={`Results for ${q} in Florus’s Neo-Latin dictionary Latinitas Recens`} />
         <link rel="icon" href="https://www.duncanritchie.co.uk/favicon.ico" />
       </Head>
 
       <main>
         <h1>Latinitas Recens</h1>
-        <Form q={query.q}/>
-        <h2>{records.length} results for “{query.q}”</h2>
-        {records.map((record: string) => <Record record={record} q={query.q} key={record}/>)}
+        <Form q={q}/>
+        <h2>{records.length} results for “{q}”</h2>
+        {records.map((record: string) => <Record record={record} q={q} key={record}/>)}
         <About/>
       </main>
 
@@ -58,7 +58,7 @@ export async function getServerSideProps({ query, res, resolvedUrl }) {
 
     return { props: {
       isHomepage: false,
-      query,
+      ...query,
       ...results,
     }}
   }
@@ -70,7 +70,6 @@ export async function getServerSideProps({ query, res, resolvedUrl }) {
     }
     return { props: {
       isHomepage: true,
-      query,
     }}
   }
 }
