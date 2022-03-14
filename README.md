@@ -11,7 +11,7 @@ I came across Latinitas Recens while compiling my own Latin lexicon, [velut](htt
 Latinitas Recens will remain a better resource than velut if you’re wanting a lot more New Latin words and phrases (obviously), as well as dictionary citations and Italian translations.
 
 ## Code
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The site is all server-side–rendered, [hosted on Netlify](https://www.duncanritchie.co.uk/latinitas-recens/).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The site is all server-side–rendered, [hosted on Netlify](https://www.duncanritchie.co.uk/latinitas-recens/). It happens to be the first time I’ve ever used the `<dfn>` and `<mark>` HTML tags, as well as my first TypeScript project on GitHub.
 
 To clone this repo and run a development server at [http://localhost:3000](http://localhost:3000), the commands are:
 ```bash
