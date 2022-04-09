@@ -6,7 +6,7 @@ export default function Document() {
       <Head>
         <link href="https://www.duncanritchie.co.uk/css/main.css" rel="stylesheet" key="main"/>
         <link href="https://www.duncanritchie.co.uk/velut-json-generator/main.css" rel="stylesheet" key="json-generator"/>
-        <base href="/latinitas-recens/"/>
+        <base href="https://www.duncanritchie.co.uk/latinitas-recens/"/>
       </Head>
       <body>
         <Main />
