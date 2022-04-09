@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/latinitas-recens',
+  basePath: '/latinitas-recens/',
   reactStrictMode: true,
 }
 
