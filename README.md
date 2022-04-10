@@ -2,7 +2,7 @@
 https://www.duncanritchie.co.uk/latinitas-recens/
 
 ## About
-Latinitas Recens is a lexicon of Neo-Latin (New Latin) vocabulary compiled by a mysterius scholar named Florus, with translations in Italian and English. It has been preserved on the [Wayback Machine](http://web.archive.org/web/20080415072407/http://users.adelphia.net/~florusc/latine/search.html) and incorporated into [Numen](https://latinlexicon.org/latinitas_recens_latine.php) (which makes it a lot more useful), but I figured there would be no harm in my hosting it myself as well.
+Latinitas Recens is a lexicon of Neo-Latin (New Latin) vocabulary compiled by a mysterious scholar named Florus, with translations in Italian and English. It has been preserved on the [Wayback Machine](http://web.archive.org/web/20080415072407/http://users.adelphia.net/~florusc/latine/search.html) and incorporated into [Numen](https://latinlexicon.org/latinitas_recens_latine.php) (which makes it a lot more useful), but I figured there would be no harm in my hosting it myself as well.
 
 Aside from removing line-breaks and correcting some typos, I have kept the 2217 data records as they are in Florus’ version. For explanations of the abbreviations in the lexicon, see the Numen link.
 

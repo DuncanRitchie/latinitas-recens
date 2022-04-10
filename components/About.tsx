@@ -2,7 +2,7 @@ export default function About() {
     return (<section>
         <h2>About</h2>
         <p>
-            Latinitas Recens is a lexicon of Neo-Latin (New Latin) vocabulary compiled by a mysterius scholar named Florus, with translations in Italian and English.
+            Latinitas Recens is a lexicon of Neo-Latin (New Latin) vocabulary compiled by a mysterious scholar named Florus, with translations in Italian and English.
             It has been preserved on the <a href='http://web.archive.org/web/20080415072407/http://users.adelphia.net/~florusc/latine/search.html'>Wayback Machine</a> and incorporated into <a href='https://latinlexicon.org/latinitas_recens_latine.php'>Numen</a> (which makes it a lot more useful), but I figured there would be no harm in my hosting it myself as well.
         </p>
         <p>
