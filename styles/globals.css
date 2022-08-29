@@ -11,12 +11,13 @@ main {
 
 form {
   display: flex;
+  align-items: flex-end;
 }
 
 input {
   font-size: inherit;
   font-family: "Monaco", "Consolas", monospace;
-  width: 100%;
+  width: calc(100% - 1rem);
 }
 
 label input {
