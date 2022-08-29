@@ -353,7 +353,7 @@ autocinetum bisellarium--n, origo; lrl, E L. idem, It. spider, An. sports car
 autocinetum laophorum--i,n, origo; lrl, E L. poplum portans, It. autobus, An. bus
 autocinetum onerarium--n, origo; lrl, E L. idem, It. camion, An. truck
 autocinetum statuo--v., origo; lrl, E L. idem, It. parcheggiare, An. park
-autocinetum subversatile--n, origo; lrl, E L. idem, It. autoribaltablie, An. hatchback (car)
+autocinetum subversatile--n, origo; lrl, E L. idem, It. autoribaltabile, An. hatchback (car)
 automataria scapha--f, origo; lrl, E L. idem, It. motoscafo, An. speedboat
 automatarius---a-um, origo; lrl, E L. ipse movens, It. semovente, An. self-propelled
 automatico--a-um, origo; lrl, E L. idem, It. automatico, An. automatic
