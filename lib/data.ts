@@ -704,7 +704,7 @@ compositio--ionis, f, origo; Draco, E L. forma disci, It. formato, An. format of
 compossessio--onis, f, origo; lrl, E L. idem, It. condominio, An. condomium
 computatio inversa--f, origo; lrl, E L. idem, It. conto alla rovescia, An. count down
 computatralis--is-e adi., origo; Draco, E L. idem, It. del computer, An. refering to computer
-computratum--i, n, origo; Draco, E L. machina quae computat, It. computer, An. computer
+computatrum--i, n, origo; Draco, E L. machina quae computat, It. computer, An. computer
 concentus magister--m, origo; lrl, E L. idem, It. concertatore, An. conductor
 conceptaculum--i, n, origo; lrl, E L. expiculum, de autocineto, It. sebatoio, An. tank
 conclamatum--i.n, origo; lrl, E L. periculum indicum, It. allarme, An. allarm
@@ -2217,3 +2217,4 @@ zincum--i, n, origo; lrl, E L. cadmia, It. zinco, An. zinc
 zoolatria--ae, f, origo; lrl, E L. idem, It. zoolatria, An. zoolatry
 zoologus--i, m, origo; Egger, E L. idem, It. zoologo, An. zoologist
 `
+
